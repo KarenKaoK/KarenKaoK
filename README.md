@@ -1,4 +1,4 @@
-👋 Hi, I’m @KarenKaoK
+👋 Hi, I’m @Karen
 
 👀 I’m interested in Data Science.
 
